@@ -1,0 +1,22 @@
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.mb-32 {
+  margin-bottom: 32px;
+}
+
+.border-bottom-1 {
+  border-bottom: 1px solid #333333;
+}
+
+// Simple directive
+.simple-directive {
+  padding: 8px 8px;
+  cursor: pointer;
+}
+// End Simple directive
